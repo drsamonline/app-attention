@@ -11,6 +11,7 @@ by hour of the day, which is the thing you cannot see from inside a single sessi
 - **Plan row:** #19 of 37 in `drsamonline/forge` → `QUEUE/PLAN.json`
 - **Specs absorbed:** `app-focus-ledger` (lead) + 3 absorbed specs
 - **Licence:** PolyForm Noncommercial 1.0.0
+- **Sponsor:** [github.com/sponsors/drsamonline](https://github.com/sponsors/drsamonline) — free, offline, no account
 
 ## Status
 
